@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\bin\Debug\Aplicatie pentru un fluturas de salar.exe.config
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\bin\Debug\Aplicatie pentru un fluturas de salar.exe
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\bin\Debug\Aplicatie pentru un fluturas de salar.pdb
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie pentru un fluturas de salar.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie_pentru_un_fluturas_de_salar.Form1.resources
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie_pentru_un_fluturas_de_salar.Properties.Resources.resources
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie pentru un fluturas de salar.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie pentru un fluturas de salar.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie pentru un fluturas de salar.exe
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Aplicatie pentru un fluturas de salar\obj\Debug\Aplicatie pentru un fluturas de salar.pdb
