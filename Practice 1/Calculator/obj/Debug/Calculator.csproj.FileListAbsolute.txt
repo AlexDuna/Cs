@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Desktop\Semestrul 2 Anul 2\C#\Practice 1\Calculator\obj\Debug\Calculator.pdb
